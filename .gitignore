@@ -1,0 +1,18 @@
+# Altium Designer - version history backups
+History/
+
+# Altium Designer - preview files
+__Previews/
+
+# Altium Designer - project logs
+Project Logs for */
+
+# Altium Designer - generated outputs (DRC, Gerber, BOM, etc.)
+Project Outputs for */
+
+# Altium Designer - temporary files
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.OutJob
+Status Report_*.txt
